@@ -1,4 +1,3 @@
-import { Carousel } from "flowbite-react";
 import member1 from "../assests/teammembers/member-1.png";
 
 const CarouselItem = ({ slides }) => {
