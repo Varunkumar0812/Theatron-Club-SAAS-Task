@@ -61,13 +61,13 @@ const Contact = () => {
                 <h2 className="font-Jura">Follow us on</h2>
 
                 <div className="flex gap-5 mt-4 text-white text-4xl">
-                  <a href="#" className="text-[#c13584]">
+                  <a href="#contact" className="text-[#c13584]">
                     <FiInstagram />
                   </a>
-                  <a href="#" className="text-[#1877f2]">
+                  <a href="#contact" className="text-[#1877f2]">
                     <FiFacebook />
                   </a>
-                  <a href="#" className="text-[#ff0000]">
+                  <a href="#contact" className="text-[#ff0000]">
                     <FiYoutube />
                   </a>
                 </div>
