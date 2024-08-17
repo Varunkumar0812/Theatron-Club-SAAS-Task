@@ -2,7 +2,7 @@
 
 ## Overview
 
-Theatron Club is a single-page website developed as a task assigned by the SAAS TechOps team to test our developed skills. The project was completed within 2 days in collaboration with Aravindkumar. The website features a clean and modern design, utilizing Tailwind CSS for styling and various components to enhance functionality.
+Theatron Club is a single-page website developed as a task assigned by the SAAS TechOps team to test our developed skills. The project was completed within 2 days in collaboration with [@Aravindkumar](https://www.github.com/AravindKumar40m). The website features a clean and modern design, utilizing Tailwind CSS for styling and various components to enhance functionality.
 
 ## Features
 
