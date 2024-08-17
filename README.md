@@ -38,7 +38,7 @@ This project is a demonstration of skill and does not have a formal license.
 ## Acknowledgements
 
 - **Tailwind CSS** for its utility-first styling approach.
-- **[@username2](https://github.com/AravindKumar40m)** for collaboration on this project.
+- **[@AravindKumar40m](https://github.com/AravindKumar40m)** for collaboration on this project.
 - **SAAS TechOps Team** for providing the task and opportunity to demonstrate skills.
 
 Feel free to check out the live site and review the design on Figma!
