@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Theatron Club - Single Page Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+Theatron Club is a single-page website developed as a task assigned by the SAAS TechOps team to test our developed skills. The project was completed within 2 days in collaboration with Aravindkumar. The website features a clean and modern design, utilizing Tailwind CSS for styling and various components to enhance functionality.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Carousel:** A responsive carousel component to showcase images or content.
+- **Navbar:** A navigation bar for easy access to different sections of the page.
+- **Forms:** Interactive forms for user input.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Tailwind CSS:** For custom styling and layout.
+- **React (or if not used, specify the framework/library used):** For building the interactive components.
 
-### `npm test`
+## Design
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The design for Theatron Club was created in Figma. You can view the design details using the following link:
 
-### `npm run build`
+- [Figma Design](https://www.figma.com/design/iC5QQNPPMo4fyoYSmmJM0D/WEB-DESIGN-TASK---Theatron-Club?node-id=0-1&t=wcLIAfC6jEPNq2Km-1)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Live Deployment
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The website is live and can be accessed through the following link:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [Live Deployment](https://elaborate-cupcake-1a2180.netlify.app/)
 
-### `npm run eject`
+## Contribution
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project was developed as part of a task for skill assessment. Contributions to this project are not open at this time, but feedback is welcome.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This project is a demonstration of skill and does not have a formal license.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Acknowledgements
 
-## Learn More
+- **Tailwind CSS** for its utility-first styling approach.
+- **[@username2](https://github.com/AravindKumar40m)** for collaboration on this project.
+- **SAAS TechOps Team** for providing the task and opportunity to demonstrate skills.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to check out the live site and review the design on Figma!
